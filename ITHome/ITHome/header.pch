@@ -1,0 +1,22 @@
+//
+//  header.pch
+//  ITHome
+//
+//  Created by qianfeng on 15/9/17.
+//  Copyright (c) 2015年 ahnu. All rights reserved.
+//
+
+#ifndef ITHome_header_pch
+#define ITHome_header_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "ZTQuickControl.h"
+#import "ZJScreenAdaptation.h"
+#import "AFNetworking.h"
+#import "UIKit+AFNetworking.h"
+#import "UITabBarController+ZJExtension.h"
+#import "NetworkInterface.h"
+
+#endif
